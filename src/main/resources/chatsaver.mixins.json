@@ -1,9 +1,8 @@
 {
   "required": true,
   "compatibilityLevel": "JAVA_8",
-  "package": "me.zircta.chatsaver.mixins",
+  "package": "me.zircta.chatsaver",
   "mixins": [
-    "EntityPlayerSPMixin",
     "GuiChatMixin"
   ]
 }
